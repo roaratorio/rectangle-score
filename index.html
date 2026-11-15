@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Rectangle Score</title>
+  <link rel="stylesheet" href="style.css?v=4">
+</head>
+<body data-theme="light">
+  <canvas id="score"></canvas>
+
+  <div id="bar">
+    <button id="play" class="primary" title="Space">Play</button>
+    <button id="restart" title="Home">From start</button>
+    <button id="open-setup" title="S">Setup</button>
+    <button id="theme" title="D">Light / dark</button>
+    <button id="full" title="F">Fullscreen</button>
+  </div>
+
+  <aside id="setup" hidden></aside>
+
+  <!-- Plain scripts, no build step: double-click this file to run the score. -->
+  <script src="js/rng.js?v=4"></script>
+  <script src="js/tempo.js?v=4"></script>
+  <script src="js/engine.js?v=4"></script>
+  <script src="js/presets.js?v=4"></script>
+  <script src="js/view.js?v=4"></script>
+  <script src="js/output.js?v=4"></script>
+  <script src="js/setup.js?v=4"></script>
+  <script src="js/main.js?v=4"></script>
+</body>
+</html>
