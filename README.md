@@ -73,3 +73,11 @@ first made in July 2025 as *Three Instrument Rectangles*; this version was
 first published in November 2026.
 
 © 2025–2026 Rob Casey.
+
+## Licence
+
+- The software is under the MIT licence (`LICENSE`): use and adapt it freely,
+  keeping the copyright notice.
+- The composition *Three Instrument Rectangles* (the `july-2025` preset) is
+  under CC BY 4.0 (`LICENSE-PIECE.md`): perform and adapt it freely, crediting
+  Rob Casey.
