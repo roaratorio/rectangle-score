@@ -74,6 +74,13 @@ first published in November 2026.
 
 © 2025–2026 Rob Casey.
 
+Version 1.0.0 is archived at Zenodo with the DOI
+[10.5281/zenodo.24242130](https://doi.org/10.5281/zenodo.24242130)
+(all versions: [10.5281/zenodo.24242129](https://doi.org/10.5281/zenodo.24242129)).
+
+To cite: Rob Casey, *Rectangle Score* (version 1.0.0), 2026.
+https://doi.org/10.5281/zenodo.24242130
+
 ## Licence
 
 - The software is under the MIT licence (`LICENSE`): use and adapt it freely,

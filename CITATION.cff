@@ -8,6 +8,7 @@ authors:
     given-names: Rob
 version: "1.0.0"
 license: MIT
+doi: 10.5281/zenodo.24242130
 date-released: "2026-11-15"
 repository-code: "https://github.com/roaratorio/rectangle-score"
 url: "https://roaratorio.github.io/rectangle-score/"
