@@ -116,3 +116,5 @@ body.setup-open.playing.idle #bar { opacity: 1; pointer-events: auto; }
 #setup .check input { width: auto; }
 
 .hint.mono { font-family: ui-monospace, Menlo, monospace; font-size: 12px; opacity: 0.85; }
+
+.credit { margin: 14px 0 4px; font-size: 12px; opacity: 0.6; }

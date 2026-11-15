@@ -1,3 +1,4 @@
+// Rectangle Score. © 2025–2026 Rob Casey.
 // The setup panel: every parameter of the piece, editable, with the score
 // rebuilt live behind it. It edits a plain config object (the same shape as
 // the presets) and hands it to RS.app.applyConfig().
@@ -407,7 +408,8 @@
         el('button', { class: 'tool', onclick: copyLink }, 'Copy link'),
         el('input', { type: 'file', id: 'setup-import', accept: '.json,application/json', hidden: 'hidden', onchange: importJson })),
 
-      el('p', { id: 'setup-status' }));
+      el('p', { id: 'setup-status' }),
+      el('p', { class: 'credit' }, 'Composed and designed by Rob Casey. First version July 2025. © 2025–2026 Rob Casey.'));
 
     panel.scrollTop = scroll;
   }

@@ -1,3 +1,4 @@
+// Rectangle Score. © 2025–2026 Rob Casey.
 // The score engine: config + seed -> the complete piece.
 //
 // Nothing here draws or keeps time. buildScore() returns, for every row, its

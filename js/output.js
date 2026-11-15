@@ -1,3 +1,4 @@
+// Rectangle Score. © 2025–2026 Rob Casey.
 // Mock-up output: plays the score's notes as built-in sound, MIDI and/or OSC.
 //
 // Notes are scheduled a quarter of a second ahead with exact timestamps, so

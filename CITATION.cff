@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use or refer to this work, please credit it as below."
+title: "Rectangle Score"
+abstract: "An animated score for ensemble. Moving rectangles signify rhythmic patterns at independent, changing tempi. Composed and designed by Rob Casey; first made in July 2025 as Three Instrument Rectangles."
+type: software
+authors:
+  - family-names: Casey
+    given-names: Rob
+version: "1.0.0"
+date-released: "2026-11-15"
+repository-code: "https://github.com/roaratorio/rectangle-score"
+url: "https://roaratorio.github.io/rectangle-score/"
+keywords:
+  - animated score
+  - composition
+  - polyrhythm
+  - polytempo

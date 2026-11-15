@@ -1,5 +1,7 @@
 # Rectangle Score
 
+Composed and designed by Rob Casey.
+
 An animated score for ensemble. Each row is one instrument. Rectangles travel
 towards a vertical line; when a filled rectangle reaches the line, that player
 plays a note from the pitches shown at the left of the row. Rows move at
@@ -63,3 +65,11 @@ WebSocket bridge (`/gate/1`, `/gate/2`, …; default `ws://localhost:8080`).
 | `js/output.js` | Sound, MIDI and OSC |
 | `js/main.js` | Clock, transport and keyboard |
 | `js/rng.js` | Seeded random numbers |
+
+## Authorship
+
+Composed and designed by Rob Casey. The piece and its animated score were
+first made in July 2025 as *Three Instrument Rectangles*; this version was
+first published in November 2026.
+
+© 2025–2026 Rob Casey.

@@ -1,3 +1,4 @@
+// Rectangle Score. © 2025–2026 Rob Casey.
 // Tempo curves.
 //
 // A row's tempo is a curve of "cells per second" over time. Its PHASE is the

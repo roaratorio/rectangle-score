@@ -1,3 +1,4 @@
+// Rectangle Score. © 2025–2026 Rob Casey.
 // Pieces. Everything about a piece lives in one of these objects.
 //
 // Tempo is in cells per minute. In the original p5 sketch a speed of 1.0

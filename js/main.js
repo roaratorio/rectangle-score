@@ -1,3 +1,4 @@
+// Rectangle Score. © 2025–2026 Rob Casey.
 // Transport and controls: the clock, play / pause / seek, keyboard and toolbar.
 (function () {
   const RS = globalThis.RS;

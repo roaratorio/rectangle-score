@@ -1,3 +1,4 @@
+// Rectangle Score. © 2025–2026 Rob Casey.
 // Drawing. Given the score and a time, paint the whole screen.
 // Nothing in here changes the score or keeps time.
 (function () {

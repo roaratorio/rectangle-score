@@ -1,3 +1,4 @@
+// Rectangle Score. © 2025–2026 Rob Casey.
 // Seeded random numbers: the same seed always gives the same piece.
 (function () {
   const RS = (globalThis.RS = globalThis.RS || {});
